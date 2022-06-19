@@ -1,0 +1,304 @@
+.placeicon
+{
+    font-family:fontawesom;
+}
+.headings
+{
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+.heading2
+{
+    color: rgb(96, 93, 93);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#bag
+{
+    
+width: 162.52px;
+height: 22.21px;
+left: 1001.16px;
+top: 203.57px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+float:right;
+
+color: #4E5150;
+
+transform: rotate(-0.02deg);
+}
+#shoe
+{
+  
+width: 99.93px;
+height: 22.21px;
+left: 1001.16px;
+top: 371.13px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #4E5150;
+float:right;
+transform: rotate(-0.02deg);
+
+}
+#ship
+{
+    width: 255px;
+height: 00px;
+left: 846px;
+top: 614px;
+margin-left: 50px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 1em;
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+#total
+{
+    width: 254px;
+height: 200px;
+left: 847px;
+top: 00px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 1em;
+margin-left: 50px;
+/* Gray 1 */
+
+color: #333333;
+
+}
+#photo1
+{    
+    width: 175.7px;
+height: 135.91px;
+left: 826.93px;
+top: 203.47px
+
+}
+#photo2
+{   
+    width: 175.7px;
+height: 135.91px;
+left: 826.93px;
+top: 371.04px;
+
+background: url(image.png);
+transform: rotate(-0.02deg);
+
+}
+#price1
+{
+   
+width: 49.46px;
+height: 17.16px;
+left: 1066.76px;
+top: 234.61px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-decoration-line: line-through;
+
+color: #4E5150;
+
+transform: rotate(-0.02deg);
+
+
+
+
+}
+#price2
+{
+   
+width: 82.77px;
+height: 29.27px;
+left: 1001.16px;
+top: 231.8px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 30px;
+
+
+/* Orange */
+
+color: #F2994A;
+
+transform: rotate(-0.02deg);
+}
+#price3
+{
+ 
+width: 53.5px;
+height: 17.16px;
+left: 1067px;
+top: 403.02px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-decoration-line: line-through;
+
+color: #4E5150;
+
+transform: rotate(-0.02deg);
+
+
+}
+#price4
+{
+width: 81.76px;
+height: 29.27px;
+left: 1001.16px;
+top: 399.37px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 30px;
+
+/* Orange */
+
+color: #F2994A;
+
+transform: rotate(-0.02deg);
+
+}
+#price5
+{
+    
+width: 255px;
+height: 00px;
+left: 918px;
+top: 614px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 1em;
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+#price6
+{
+ 
+width: 255px;
+height: 200px;
+left: 919px;
+top: 658px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 1em;
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+#line1{width: 327.06px;
+height: 0px;
+left: 846.72px;
+top: 603.27px;
+line-height: 0%;
+
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+transform: rotate(-0.18deg);}
+#line2{
+    width: 327.06px;
+height: 0px;
+left: 846.72px;
+top: 645.64px;
+
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+transform: rotate(-0.18deg);
+}
+#items
+{
+  background: #F2F2F2;
+  height: 535px;
+width: 383px;
+left: 817px;
+top: 170px;
+border-radius: 12px;
+}
+.box {
+    border-radius: 10px;
+    
+    padding: 10px; 
+    width: 200px;
+    height: 15px;    
+}
+#box1
+{
+    border-radius: 10px;
+    width: 225px;
+    padding: 10px;
+   
+}
+#button
+{
+    background-color: orange;
+    width: 166px;
+height: 54px;
+left: 539px;
+top: 886px;
+
+    border-radius: 12px;
+    float: right;
+    border-color: #F2F2F2;
+}
+#table1
+{
+    padding-left: -50px;
+}
+#check
+{
+    width: 21px;
+    height: 21px;
+    left: 240px;
+    top: 845px;
+    margin-top: 20px;
+    
+    /* Gray 3 */
+    
+    border: 1px solid #828282;
+    border-radius: 4px;
+
+  
